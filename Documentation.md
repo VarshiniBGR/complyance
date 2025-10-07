@@ -24,8 +24,11 @@ The frontend provides a simple, responsive form and shows live results. The back
 ### Technologies and Tools
 
 Frontend --> React.js+Tailwind CSS
+
 Backend --> Node.js+ Express.js
+
 Database --> Mongodb Atlas
+
 PDF --> pdfkit/html-pdf
 
 ### Key Features 
